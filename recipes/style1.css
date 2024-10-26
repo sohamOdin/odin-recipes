@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+    align-self: center;
+    padding-left: 200px;
+}
+
+h3{
+    font-style: italic;
+    color: green;
+    text-align: center;
+}
+
+ul,
+ol{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.gc{
+    height: 400px;
+    width: auto;
+    padding-left: 200px;
+}
